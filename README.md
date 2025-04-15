@@ -120,7 +120,11 @@ Aplikasi akan terbuka di browser dengan QR code.
 
 ## 🔗 Tautan Terkait
 
-- 🔗 Backend Laravel (Web App): [Petugas: https://helloluthfiii.my.id/aftersales/admin](https://helloluthfiii.my.id/aftersales/admin), [Pelanggan: https://helloluthfiii.my.id/aftersales/guest](https://helloluthfiii.my.id/aftersales/guest)
+- 🔗 Backend Laravel (Web App):
+
+  - **Petugas** : [https://helloluthfiii.my.id/aftersales/admin](https://helloluthfiii.my.id/aftersales/admin),
+  - **Pelanggan** [https://helloluthfiii.my.id/aftersales/guest](https://helloluthfiii.my.id/aftersales/guest)
+
 - 🔗 Repository Web (Laravel): [https://github.com/Mhmmadlthfi/sistem-komplain-manajemen](https://github.com/Mhmmadlthfi/sistem-komplain-manajemen)
 
 ---
