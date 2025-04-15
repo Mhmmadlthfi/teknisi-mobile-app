@@ -1,4 +1,4 @@
-# 📱 Aplikasi Mobile Teknisi - Sistem Komplain
+# 📱 Aplikasi Mobile Teknisi - Sistem Komplain Manajemen
 
 Aplikasi mobile ini merupakan bagian dari sistem manajemen komplain pelanggan. Dibuat menggunakan **React Native + Expo**, aplikasi ini ditujukan khusus untuk **teknisi** dalam menangani dan melaporkan penanganan keluhan pelanggan.
 
@@ -122,7 +122,7 @@ Aplikasi akan terbuka di browser dengan QR code.
 
 - 🔗 Backend Laravel (Web App):
 
-  - **Petugas** : [https://helloluthfiii.my.id/aftersales/admin](https://helloluthfiii.my.id/aftersales/admin),
+  - **Petugas** : [https://helloluthfiii.my.id/aftersales/admin](https://helloluthfiii.my.id/aftersales/admin)
   - **Pelanggan** [https://helloluthfiii.my.id/aftersales/guest](https://helloluthfiii.my.id/aftersales/guest)
 
 - 🔗 Repository Web (Laravel): [https://github.com/Mhmmadlthfi/sistem-komplain-manajemen](https://github.com/Mhmmadlthfi/sistem-komplain-manajemen)
