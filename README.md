@@ -79,19 +79,19 @@ Aplikasi akan terbuka di browser dengan QR code.
 **Login Screen**
 
 <p align="center">
-    <img src="./screenshots/ss1.jpg" width="60%" />
+    <img src="./screenshots/ss1.jpg" width="45%" />
 </p>
 
 **Home Screen**
 
 <p align="center">
-    <img src="./screenshots/ss2.jpg" width="60%" />
+    <img src="./screenshots/ss2.jpg" width="45%" />
 </p>
 
 **List Keluhan**
 
 <p align="center">
-    <img src="./screenshots/ss3.jpg" width="60%" />
+    <img src="./screenshots/ss3.jpg" width="45%" />
 </p>
 
 **Halaman Penanganan**
